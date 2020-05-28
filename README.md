@@ -1,2 +1,3 @@
 # simple-blog-website
-A simple Blog for the udacity project.
+This is the first project in the Front End Developer Nanodegree.
+The goal is to create a blog page with HTML & CSS.
