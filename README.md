@@ -1,3 +1,3 @@
 # simple-blog-website
-This is the first project in the Front End Developer Nanodegree.
+This is the first project in the Front End Developer Nanodegree.<br/>
 The goal is to create a blog page with HTML & CSS.
