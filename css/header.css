@@ -150,7 +150,7 @@ nav.menu_cst ul li a:hover {
         width: 40px;
         height: 40px;
         display: block;
-        background-image: url(/img/menu_icon.svg);
+        background-image: url(../img/menu_icon.svg);
         background-size: 100% auto;
         background-position: center;
         background-repeat: no-repeat;
