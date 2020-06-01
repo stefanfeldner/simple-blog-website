@@ -46,22 +46,22 @@
 }
 
 .blog_cst_entry:nth-child(1) {
-    background-image: url(/img/undraw_access_account_99n5.svg);
+    background-image: url(../img/undraw_access_account_99n5.svg);
 }
 .blog_cst_entry:nth-child(2) {
-    background-image: url(/img/undraw_alien_science_nonm.svg);
+    background-image: url(../img/undraw_alien_science_nonm.svg);
 }
 .blog_cst_entry:nth-child(3) {
-    background-image: url(/img/undraw_react_y7wq.svg);
+    background-image: url(../img/undraw_react_y7wq.svg);
 }
 .blog_cst_entry:nth-child(4) {
-    background-image: url(/img/undraw_navigator_a479.svg);
+    background-image: url(../img/undraw_navigator_a479.svg);
 }
 .blog_cst_entry:nth-child(5) {
-    background-image: url(/img/undraw_quiz_nlyh.svg);
+    background-image: url(../img/undraw_quiz_nlyh.svg);
 }
 .blog_cst_entry:nth-child(6) {
-    background-image: url(/img/undraw_reading_book_4wjf.svg);
+    background-image: url(../img/undraw_reading_book_4wjf.svg);
 }
 
 @media (max-width: 1700px) { 

@@ -98,13 +98,13 @@
     grid-column: 3 / span 1;
 }
 .intro-pic:nth-child(2) {
-    background-image: url(/img/undraw_maker_launch_crhe.svg);
+    background-image: url(../img/undraw_maker_launch_crhe.svg);
 }
 .intro-pic:nth-child(4) {
-    background-image: url(/img/undraw_startman1_h7l9.svg);
+    background-image: url(../img/undraw_startman1_h7l9.svg);
 }
 .intro-pic:nth-child(6) {
-    background-image: url(/img/undraw_Taken_if77.svg);
+    background-image: url(../img/undraw_Taken_if77.svg);
 }
 
 @media (max-width: 991px) { 
